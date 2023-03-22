@@ -1,6 +1,15 @@
 # Sales-prediction
 The objective of this challenge was to predict shops' revenues.
 
+Caption:
+
+🗂️ folder
+📁 file
+📊 sheet
+🔗 link
+
+# Methodology 🧮:
+
 1️⃣ **We were given a database:** Sales (1).csv
 
 2️⃣ **Cleaned the data and tested several models:** ironkaggle.ipynb
